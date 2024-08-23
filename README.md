@@ -32,7 +32,7 @@ sudo emerge net-misc/sshpass
 
 ## Create file.sh
 
-create script sh using ur text editor example.
+create `script.sh` using your text editor example.
 
 **Using VIM**
 
