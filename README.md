@@ -12,3 +12,9 @@ create script sh using ur text editor example.
 vim migrate.sh
 
 ```
+
+**Using NANO**
+
+```bash
+nano migrate.sh
+```
