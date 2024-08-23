@@ -56,3 +56,9 @@ sudo chmod +x migrate.sh
 ```
 
 ### Run The Script
+
+run the script with command below
+
+```bash
+./migrate.sh
+```
