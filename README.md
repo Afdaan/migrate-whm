@@ -54,3 +54,5 @@ dont forget to give the `migrate.sh` access to using the script
 ```bash
 sudo chmod +x migrate.sh
 ```
+
+### Run The Script
