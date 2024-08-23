@@ -2,6 +2,10 @@ Script for migrate all User on WHM/Cpanel to another WHM/Cpanel server. Using `s
 
 # How to run this script
 
+### Install `sshpass`
+
+install `sshpass` first because the script is using `sshpass` or it can be error.
+
 ### Create file.sh
 
 create script sh using ur text editor example.
