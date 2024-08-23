@@ -1,4 +1,4 @@
-Script for migrate all User on WHM/Cpanel to another WHM/Cpanel server. Using `sshpass` for not using password during running the script
+Script for migrate all User on WHM/Cpanel to another WHM/Cpanel server. Using `sshpass` for not using password during running the script and using `rsync` instead of `scp` because more stable
 
 # How to run this script
 
