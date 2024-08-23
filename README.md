@@ -5,7 +5,8 @@ Script for migrate all User on WHM/Cpanel to another WHM/Cpanel server. Using `s
 ### Create file.sh
 
 Using VIM
-`vim migrate.sh`
+
+> vim migrate.sh
 
 Using NANO
 `nano migrate.sh`
