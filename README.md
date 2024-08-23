@@ -46,3 +46,11 @@ vim migrate.sh
 ```bash
 nano migrate.sh
 ```
+
+### Give Permission
+
+dont forget to give the `migrate.sh` access to using the script
+
+```bash
+sudo chmod +x migrate.sh
+```
