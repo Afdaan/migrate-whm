@@ -8,7 +8,7 @@ install `sshpass` first because the script is using `sshpass` or it can be error
 
 **Ubuntu/Debian**
 
-````bash
+```bash
 sudo apt install sshpass
 ```
 
@@ -19,16 +19,16 @@ sudo yum install sshpass
 ```
 
 **Arch Linux And Manjaro**
+
 ```bash
 sudo pacman -S sshpass
 ```
 
 **OpenSUSE**
+
 ```bash
 sudo emerge net-misc/sshpass
 ```
-
-
 
 ### Create file.sh
 
@@ -39,7 +39,7 @@ create script sh using ur text editor example.
 ```bash
 vim migrate.sh
 
-````
+```
 
 **Using NANO**
 
